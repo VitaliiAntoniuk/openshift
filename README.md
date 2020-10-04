@@ -1,2 +1,2 @@
 # openshift
-Test openshift autodeploy
+Test openshift autodeploy first
